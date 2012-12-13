@@ -2,6 +2,8 @@
 ## What is it?
 A helper for changing bland and boring 'Live' or 'Deleted' text in admin index views into something more visually appealing.  
 
+**Please note** that this plugin has now been superceeded by the NiceAdmin plugin. This plugin will no longer be maintained.
+
 ## Requirements
 The styles are based on the [Twitter Bootstrap labels](http://twitter.github.com/bootstrap/components.html#labels-badges) so you'll need to include this somewhere on your page, or you can [include the labels `.less` file](https://github.com/twitter/bootstrap/blob/master/less/labels-badges.less).
 
